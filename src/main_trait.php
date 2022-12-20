@@ -4,7 +4,7 @@ namespace X14;
 
 trait MainTrait
 {
-    public function test()
+    public static function test()
     {
         echo "efefefefe";
     }

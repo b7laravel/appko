@@ -3,7 +3,7 @@
 
 namespace X14;
 
-require "./main_trait.php";
+require __DIR__."/main_trait.php";
 
 class Appko
 {
