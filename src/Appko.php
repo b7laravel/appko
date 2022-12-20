@@ -7,6 +7,7 @@ class Appko
 {
     public static function test()
     {
-        echo "jehfejfje";
+        echo "jehfejfjeуауау";
+
     }
 }
