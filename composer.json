@@ -3,9 +3,9 @@
     "type": "library",
     "license": "mit",
     "autoload": {
-        "psr-4": {
-            "X14\\Appko\\": "src/"
-        }
+        "classmap": 
+            ["src/"]
+        
     },
     "authors": [
         {
