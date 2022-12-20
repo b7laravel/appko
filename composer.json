@@ -1,0 +1,17 @@
+{
+    "name": "x14/appko",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "X14\\Appko\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "x14",
+            "email": "pa@pest14.ru"
+        }
+    ],
+    "require": {}
+}
